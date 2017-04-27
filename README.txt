@@ -1,7 +1,9 @@
-Le morpion est un jeu de réflexion se pratiquant à deux joueurs au tour par tour et dont le but est de créer le premier un alignement sur une grille. 
-Le jeu se joue généralement avec papier et crayon. 
-Ici changement puisqu'il peut maintenant être joué sur ordinateur. 
-Je l'ai développé quand j'avais un peu de temps pour moi,
-et que je voulais programmer quelques choses de facile tout en apprenant à mieux gérer la partie IHM qui était nouvelle pour moi au moment où je l'ai développé.
+Le morpion est un jeu de rÃ©flexion se pratiquant Ã  deux joueurs au tour par tour et dont le but est de crÃ©er le premier un alignement sur une grille. 
+Le jeu se joue gÃ©nÃ©ralement avec papier et crayon. 
+Ici changement puisqu'il peut maintenant Ãªtre jouÃ© sur ordinateur. 
+Je l'ai dÃ©veloppÃ© quand j'avais un peu de temps pour moi,
+et que je voulais programmer quelques choses de facile tout en apprenant Ã  mieux gÃ©rer la partie IHM qui Ã©tait nouvelle pour moi au moment oÃ¹ je l'ai dÃ©veloppÃ©.
 
 ALEXIS PREVOST-MAYNEN
+
+Lien pour DL le jeu : http://alexisprevostmaynen.fr/portfolio/morpion/
